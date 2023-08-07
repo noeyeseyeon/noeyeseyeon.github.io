@@ -6,14 +6,12 @@ categories: [Github Blog]
 date : 2023-08-07 14:37:00 +0900
 ---
 
-
 Github 블로그에 글 올리는 방법에 대해서 알아보자
 ---
 
 **1. _posts라는 폴더에 파일 생성**
 <br>파일명은 "YYYY-MM-DD-TITLE.markdown" 형식으로 작성한다.
 <br><span style="color:gray">*ex) 2023-08-07-Github 블로그 작성 방법.markdown*</span>
-<br>![image](C:\Users\ms\git\noeyeseyeon.github.io\_posts\image1.jpg)
 
 **<br>2. 머리말 작성**
 <br>앞서 생성한 .markdown 파일을 열어 머릿말을 작성한다.
@@ -45,7 +43,7 @@ Github 블로그에 글 올리는 방법에 대해서 알아보자
 <br>로컬 확인 후 이상없으면 푸시를 진행한다. 푸시 후 반영되기까지 1-2분정도 소요된다.
 <br>
 <br>>> cmd 실행
-<br>> cd /c/users/ms/git/noeyeseyeon.github.io  #블로그 레파지토리
+<br>> cd /c/users/ms/git/noeyeseyeon.github.io  <span style="color:gray">*#블로그 레파지토리*</span>
 <br>> git add .
 <br>> git commit -m "메인화면에 뜰 커밋 내용"
 <br>> git push
