@@ -5,12 +5,11 @@ date:   2023-08-07 14:01:00 +0900
 categories: 기타
 ---
 오늘 처음으로 깃허브 블로그 글을 작성해본다.
+<br>블로그를 만드는데 3시간 넘게 걸렸다. 힘들었지만 뿌듯하다!
+<br>앞으로 개발자로서 경험을 이곳에 기록하려고 한다.
+<br>화이팅!!
 
-블로그를 만드는 게 쉽진 않았지만 막상 만들고보니 뿌듯하다.
-
-앞으로 개발자로서 경험을 이곳에 기록하려고 한다.
-
-칠전팔기 화이팅!!
+![image](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MjRfMzkg%2FMDAxNjI3MTA2NjA1NjA4.GW616E7n4iAGNEiTLGLVwbmjwIhD5zBBlzV4HYt5YJEg.FtScPifSLKzBnzvvM-Oa4e-GWKapm-3t_LBbwP39MFog.JPEG.amy3838%2FF7B70D4F-9C47-48BA-B430-A578B57FEF65.jpg&type=sc960_832)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
