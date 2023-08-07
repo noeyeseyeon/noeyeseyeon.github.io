@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "나의 첫번째 글"
+date:   2023-08-07 14:01:00 +0900
+categories: 기타
+---
+오늘 처음으로 깃허브 블로그 글을 작성해본다.
+
+블로그를 만드는 게 쉽진 않았지만 막상 만들고보니 뿌듯하다.
+
+앞으로 개발자로서 경험을 이곳에 기록하려고 한다.
+
+칠전팔기 화이팅!!
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
